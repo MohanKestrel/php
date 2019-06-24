@@ -1,0 +1,11 @@
+{
+    "name": "kestrel/php",
+    "description": "Test for heroku",
+    "authors": [
+        {
+            "name": "Mohanraj",
+            "email": "mohanok6@gmail.com"
+        }
+    ],
+    "require": {}
+}
